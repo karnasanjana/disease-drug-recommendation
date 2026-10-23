@@ -1,0 +1,7 @@
+{
+  "test_accuracy": 0.9836,
+  "test_macro_f1": 0.9707,
+  "train_size": 243,
+  "test_size": 61,
+  "n_classes": 41
+}
