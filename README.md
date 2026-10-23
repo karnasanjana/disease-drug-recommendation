@@ -4,7 +4,7 @@ A Flask web app where users describe their symptoms, typed or spoken, to a chatb
 **CNN trained on TF-IDF symptom features** predicts the most likely of **41 diseases** and
 returns a diet plan and common medications for it.
 
-Built as my final-year (B.Tech) major project.
+Built as my final-year (BE) major project.
 
 ![Home page](docs/home.png)
 
